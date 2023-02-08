@@ -12,6 +12,10 @@
 
 <div align="center">  
 <a href="https://instagram.com/fernandfmsf?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+
+ <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-fernandes-29578a1b4/" /></a>
+ 
 </div> 
  
   
