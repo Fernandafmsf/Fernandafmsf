@@ -13,7 +13,7 @@
 </div>
 
 ## Hello 
-My name is Fernanda and i wrote this so you could know me a little better! 
+I'm Fernanda and i wrote this so you could know me a little better! :)
 
 ### Informations about me 
 - My name is Fernanda Fernandes and I'm 20 years old
