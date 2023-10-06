@@ -1,11 +1,11 @@
 
 <div>
 
-  <a target="_blank" href="https://www.linkedin.com/in/fernanda-fernandes-dev">
+  <a href="https://www.linkedin.com/in/fernanda-fernandes-dev" target='_blank'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a target="_blank" href="https://twitter.com/dev_fernanda">
+  <a href="https://twitter.com/dev_fernanda" target='_blank'>
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 
@@ -20,7 +20,7 @@ My name is Fernanda and i wrote this so you could know me a little better!
 - I'm finishing my degree in systems analysis and development on Estácio 
 - I'm curious, adaptable and a fast learner who loves to share knowledge.
 
-## Detailed information
+### Detailed information
 - **Name:** Fernanda Fernandes 
 - **Age:** 20
 - **Living in:** Rio de Janeiro - RJ, Brazil
