@@ -16,15 +16,11 @@
 My name is Fernanda and i wrote this so you could know me a little better! 
 
 ### Informations about me 
-- I live in Rio de Janeiro, Brazil and I am working on being a back-end developer and a problem solver! 
-- I'm finishing my degree in systems analysis and development on Estácio 
+- My name is Fernanda Fernandes and I'm 20 years old
+- I'm working on being a back-end developer and a problem solver.
+- I live in Rio de Janeiro - RJ, Brazil.
+- Finishing my degree in Analysis and Systems Development on Estácio.
 - I'm curious, adaptable and a fast learner who loves to share knowledge.
-
-### Detailed information
-- **Name:** Fernanda Fernandes 
-- **Age:** 20
-- **Living in:** Rio de Janeiro - RJ, Brazil
-- **University** Estácio de sá - Analysis and Systems Development
 
 ### Curiosities about me 
 - I have a technical degree on Industrial Automation Technician and I worked for 2 years in this field.
@@ -32,7 +28,6 @@ My name is Fernanda and i wrote this so you could know me a little better!
 - I only realised I would enjoy programming on back end more on 2023. 
 - I want to be a great leader and help people 
 
- 
   
 ### Studying in this moment:
 - **PHP**
@@ -40,12 +35,8 @@ My name is Fernanda and i wrote this so you could know me a little better!
 - **Java** 
 - **Shell Script**
 - **Bootstrap**
-- **HTML**
-- **CSS** 
+- **HTML and CSS**
 
-
-
- 
 ### Tools/Operational Systems:
 - **Visual Studio Code**
 - **Git**
