@@ -19,7 +19,7 @@ I'm Fernanda and i wrote this so you could know me a little better! :)
 - My name is Fernanda Fernandes and I'm 20 years old
 - I'm working on being a back-end developer and a problem solver.
 - I live in Rio de Janeiro - RJ, Brazil.
-- Finishing my degree in Analysis and Systems Development on Estácio.
+- Finished my degree in Analysis and Systems Development on Estácio.
 - I'm curious, adaptable and a fast learner who loves to share knowledge.
 
 ### Curiosities about me 
@@ -32,6 +32,7 @@ I'm Fernanda and i wrote this so you could know me a little better! :)
 ### Studying in this moment:
 - **PHP**
 - **SQL**
+- **Laravel**
 - **Java** 
 - **Shell Script**
 - **Bootstrap**
@@ -40,6 +41,7 @@ I'm Fernanda and i wrote this so you could know me a little better! :)
 ### Tools/Operational Systems:
 - **Visual Studio Code**
 - **Git**
+- **Docker**
 - **Intellij** 
 - **Windows**
 - **Ubuntu**    
