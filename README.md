@@ -26,8 +26,7 @@ I'm Fernanda and i wrote this so you could know me a little better! :)
 - I have a technical degree on Industrial Automation Technician and I worked for 2 years in this field.
 - I had my first contact with web programming on 2020 when i took a course offered by Junior Achievement. This course taught me how to use HTML and CSS in a really basic way and I became really interested on it. Besides that, I was only able to really focus on programming in 2023.
 - I only realised I would enjoy programming on back end more on 2023. 
-- I want to be a great leader and help people 
-
+- I want to be able to share knowledge and help people
   
 ### Studying in this moment:
 - **PHP**
