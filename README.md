@@ -35,11 +35,10 @@ I'm Fernanda and i wrote this so you could know me a little better! :)
 - **PHP**
 - **SQL**
 - **Laravel**
-- **AdonisJS**
-- **Javascript**
-- **Prisma ORM**
-- **VueJS**
-- **Documentation tools**
+- **Terraform**
+- **Github Actions**
+- **CI/CD**
+- **Docker**
 
 ### Tools/Operational Systems:
 - **Visual Studio Code**
