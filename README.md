@@ -16,8 +16,8 @@
 I'm Fernanda and i wrote this so you could know me a little better! :)
 
 ### Informations about me 
-- My name is Fernanda Fernandes and I'm 22 years old
-- I'm a back-end developer and a problem solver.
+- My name is Fernanda Fernandes 
+- I'm a back-end developer but especially I am a problem solver.
 - I live in Rio de Janeiro - RJ, Brazil.
 - Finished my degree in Analysis and Systems Development on Estácio.
 - I'm curious, adaptable and a fast learner who loves to share knowledge.
