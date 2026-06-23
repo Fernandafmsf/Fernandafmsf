@@ -17,11 +17,11 @@ I'm Fernanda and i wrote this so you could know me a little better! :)
 
 ### Informations about me 
 - My name is Fernanda Fernandes 
-- I'm a back-end developer but especially I am a problem solver.
+- I'm a Technical Architect but mostly, I am a problem solver.  
 - I live in Rio de Janeiro - RJ, Brazil.
 - Finished my degree in Analysis and Systems Development on Estácio.
 - I'm curious, adaptable and a fast learner who loves to share knowledge.
-- Currently working as back-end developer @ Geomais
+- Currently working as Technical Architect @ Globo
 
 ### Curiosities about me 
 - I have a technical degree on Industrial Automation Technician and I worked for 2 years in this field.
